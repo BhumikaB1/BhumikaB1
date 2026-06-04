@@ -13,7 +13,7 @@ predicting insurance costs, and digitizing healthcare workflows.
 
 ---
 
-## 📊 The Data Science Side of Me
+##  The Data Science Side of Me
 
 I'm currently on a structured journey through Data Science:
 
@@ -21,7 +21,7 @@ I'm currently on a structured journey through Data Science:
 - **Power BI** (DAX, star schema, RLS, time intelligence)
 - **Machine Learning** — Scikit-learn, regression, classification, model evaluation
 - **Model Deployment** — FastAPI + Docker + Streamlit (end-to-end pipelines)
-- **Currently Learning** — Deep Learning, NLP, and LLM integrations (Gemini API)
+- **Currently Learning** — Deep Learning, NLP, and LLM integrations 
 - **Next Goal** — Time series forecasting & advanced feature engineering
 
 > I believe data science isn't useful until it's usable.
