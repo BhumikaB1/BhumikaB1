@@ -58,11 +58,11 @@ cross-platform deployment, designed for accessibility.
 ## 🛠 Stack
 
 **Data & ML**
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Streamlit`
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Streamlit` 
 
 **Data & Analytics**
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
-`Power BI` `DAX` `Power Query` `Star Schema`
+`Power BI` `DAX` `Power Query` `Excel`
 
 **AI & APIs**
 `Gemini API` `FastAPI` `REST APIs` `Pydantic`
@@ -71,7 +71,7 @@ cross-platform deployment, designed for accessibility.
 `Docker` `PostgreSQL` `Supabase` `Git` `Vercel`
 
 **Frontend**
-`JavaScript` `HTML` `Tailwind CSS`
+`React` `React-Native` 
 
 ---
 
