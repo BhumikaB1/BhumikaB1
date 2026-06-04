@@ -18,14 +18,11 @@ predicting insurance costs, and digitizing healthcare workflows.
 I'm currently on a structured journey through Data Science:
 
 - **Data Analysis & Visualization** — pandas, NumPy, Matplotlib, Seaborn
-- **Power BI** (DAX, star schema, RLS, time intelligence)
+- **Power BI** (DAX, Schemas, RLS, time intelligence)
 - **Machine Learning** — Scikit-learn, regression, classification, model evaluation
 - **Model Deployment** — FastAPI + Docker + Streamlit (end-to-end pipelines)
-- **Currently Learning** — Deep Learning, NLP, and LLM integrations 
+- **Currently Learning** — Deep Learning and NLP
 - **Next Goal** — Time series forecasting & advanced feature engineering
-
-> I believe data science isn't useful until it's usable.
-> Every model I build, I try to ship.
 
 ---
 
